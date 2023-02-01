@@ -1,0 +1,7 @@
+data/VOC/images/hrg0_14.jpg
+data/VOC/images/hrg10_10.jpg
+data/VOC/images/hrg15_16.jpg
+data/VOC/images/hrg16_11.jpg
+data/VOC/images/hrg16_15.jpg
+data/VOC/images/hrg7_4.jpg
+data/VOC/images/hrg8_19.jpg

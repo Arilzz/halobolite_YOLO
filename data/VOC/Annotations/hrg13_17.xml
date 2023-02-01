@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>meng</folder>
+	<filename>hrg13_17</filename>
+	<path>C:\Users\YJK\Desktop\meng\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>halobolite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>74</ymin>
+			<xmax>377</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

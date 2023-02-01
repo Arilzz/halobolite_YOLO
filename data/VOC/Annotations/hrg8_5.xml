@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>meng</folder>
+	<filename>hrg8_5</filename>
+	<path>C:\Users\YJK\Desktop\meng\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>259</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>halobolite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>12</ymin>
+			<xmax>313</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hrg16_16.jpg</filename>
+	<path>C:\Users\YJK\PycharmProjects\untitled\meng_Yolo\data\VOC\images\hrg16_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
